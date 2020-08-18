@@ -1,6 +1,8 @@
 # Ensemble-Learning
 Ensemble Learning techniques in Machine Larning are implemented in this repository. There will be basic, minimal implementation from scratch and using Scikit-Learn.
 
+# Start Date 31.07.2020
+
 # Update 15.08.2020
 I implemented Adaboost Algorithm from scratch.
 
